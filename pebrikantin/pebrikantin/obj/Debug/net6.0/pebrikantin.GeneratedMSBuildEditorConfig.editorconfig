@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = pebrikantin
+build_property.ProjectDir = C:\Users\novia\OneDrive\Documents\X PPLG 1 VEBRIANN\SEMESTER 2\DPK A\PRAKTEK\pebrikantin\pebrikantin\
